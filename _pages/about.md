@@ -49,7 +49,8 @@ TODO -->
 [[code]](https://github.com/HongduanTian/MOKD)
 [[slides]](./data/slides/ICML24_MOKD.pdf)
 [[poster]](./data/poster/icml24_mokd.pdf)
-[[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)  
+[[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
+[[EN-video]](https://www.youtube.com/watch?v=uWMM63Sv0ZI&t=110s)   
   **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
 <details>
 <summary>Quick Introduction</summary>
