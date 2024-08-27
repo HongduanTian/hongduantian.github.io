@@ -97,10 +97,11 @@ TODO -->
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
-- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-24).
+- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-25).
 - Journal Reviewer for TMLR, NEUNET, TNNLS, TPAMI.
 
 # 🏫 Teaching
+- *2024 Fall*, TA for COMP 7180: Quantitative Methods for Data Analytics and Artificial Intelligence
 - *2024 Spring*, TA for COMP7940: Cloud Computing.
 
 # 📖 Experiences
