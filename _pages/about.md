@@ -28,6 +28,7 @@ My research interests mainly include **few-shot/meta learning, transfer learning
 
 # 📣 News
 - **$\frak{2024.05}$**: One paper is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
+- **$\frak{2024.09}$**: One paper is accepted by [NeurIPS 2024](https://neurips.cc/).
 
 # 📖 Educations
 - *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
@@ -39,6 +40,29 @@ TODO -->
 
 # 📝 Publications
 ✉️ Corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/modality_gap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[![Static Badge](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]() **Mind the Gap Between Prototypes and Images in Cross-domain Finetuning**.  
+[[paper]]()
+[[code]]()
+[[slides]]()
+[[poster]]()
+[[CN-video]]()
+[[EN-video]]()   
+  **Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
+<details>
+<summary>Quick Introduction</summary>
+ In _cross-domain few-shot classification_ (CFC), recent works mainly focus on adapting a simple transformation head on top of a frozen pre-trained backbone with few labeled data to project embeddings into a task-specific metric space where classification can be performed by measuring similarities between image instance and prototype representations. Technically, an _assumption_ implicitly adopted in such a framework is that the prototype and image instance embeddings share the same representation transformation. However, in this paper, we find that there naturally exists a gap, which resembles the modality gap, between the prototype and image instance embeddings extracted from the frozen pre-trained backbone, and simply applying the same transformation during the adaptation phase constrains exploring the optimal representation distributions and shrinks the gap between prototype and image representations. <br><br>
+ 
+ To solve this problem, we propose a simple yet effective method, _contrastive prototype-image adaptation_ (CoPA), to adapt different transformations for prototypes and images similarly to CLIP by treating prototypes as text prompts. <br><br>
+
+Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the _state-of-the-art_ performance more efficiently. Meanwhile, further analyses also indicate that CoPA can learn better representation clusters, enlarge the gap, and achieve the minimum validation loss at the enlarged gap.
+</details>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/mokd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
