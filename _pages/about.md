@@ -41,7 +41,7 @@ TODO -->
 # 📝 Publications
 ✉️ Corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/modality_gap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/modality_gap_copa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
