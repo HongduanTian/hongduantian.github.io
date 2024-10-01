@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hongduan Tian, a first-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html).
+Hi, I am Hongduan Tian, a second-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html).
 
 Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
@@ -122,19 +122,23 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 
 # 💻 Services
 - Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-25).
-- Journal Reviewer for TMLR, NEUNET, TNNLS, TPAMI.
+- Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
 
 # 🏫 Teaching
 - *2024 Fall*, TA for COMP 7180: Quantitative Methods for Data Analytics and Artificial Intelligence
 - *2024 Spring*, TA for COMP7940: Cloud Computing.
 
-# 📖 Experiences
-- *2024.06 - 2024.08*, Research Intern @WeChat
+# 📖 Academic Experiences
 - *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
-- *2023.07 - 2023.08*, Research Intern @Alibaba.
-- *2022.07 - Present*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), advised by Charles Cheung.
 - *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
+
+
+# 🏢 Industrial Experiences
+- *2022.07 - Present*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), host by Charles Cheung.
+- *2024.06 - 2024.08*, Research Intern @WeChat
+- *2023.07 - 2023.08*, Research Intern @Alibaba.
 - *2021.07 - 2022.07*, Algorithm Engineer @ZTE Nanjing Research and Development Center.
+
 
   
 <!-- <div align=center> -->
