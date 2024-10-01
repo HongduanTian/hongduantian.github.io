@@ -59,7 +59,7 @@ TODO -->
  
  To solve this problem, we propose a simple yet effective method, contrastive prototype-image adaptation (CoPA), to adapt different transformations for prototypes and images similarly to CLIP by treating prototypes as text prompts. <br><br>
 
-Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the _state-of-the-art_ performance more efficiently. Meanwhile, further analyses also indicate that CoPA can learn better representation clusters, enlarge the gap, and achieve the minimum validation loss at the enlarged gap.
+Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-of-the-art performance more efficiently. Meanwhile, further analyses also indicate that CoPA can learn better representation clusters, enlarge the gap, and achieve the minimum validation loss at the enlarged gap.
 </details>
 </div>
 </div>
