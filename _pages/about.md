@@ -27,8 +27,8 @@ My research interests mainly include **few-shot/meta learning, transfer learning
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
-- **$\frak{2024.09}$**: One paper is accepted by [NeurIPS 2024](https://neurips.cc/).
-- **$\frak{2024.05}$**: One paper is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
+- **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
+- **$\frak{2024.05}$**: Our paper "MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence" is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
 
 # 📖 Educations
 - *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
