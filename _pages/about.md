@@ -121,7 +121,7 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
-- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-25).
+- Conference Reviewer for ICML (22-24), NeurIPS (22-24), ICLR (22-25) AISTATS (25).
 - Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
 
 # 🏫 Teaching
