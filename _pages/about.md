@@ -32,7 +32,7 @@ My research interests mainly include **few-shot/meta learning, transfer learning
 
 # 📖 Educations
 - *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
-- *2018.09 – 2021.06*, Nanjing University of Information Science and Technology (NUIST), M.E. in Control Enginerring.
+- *2018.09 – 2021.06*, Nanjing University of Information Science and Technology (NUIST), M.E. in Control Engineering.
 - *2014.09 - 2018.06*, Nanjing University of Information Science and Technology (NUIST), B.E. in Automation.
 
 <!-- # 📝 Featured Publications
