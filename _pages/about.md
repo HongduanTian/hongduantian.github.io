@@ -22,7 +22,7 @@ Before that, I got my master degree from Nanjing University of Information Scien
 
 My research interests mainly include **few-shot/meta learning, transfer learning, and LLM Agents**.
 
-*Please feel free to [email me](mailto:cshdtian@comp.hkbu.edu.hk) for research, collaborations, or a casual chat.* 
+*Please feel free to [email me](mailto:hongduan.tian@gmail.com) for research, collaborations, or a casual chat.* 
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
