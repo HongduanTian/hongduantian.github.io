@@ -44,7 +44,7 @@ TODO -->
 
 
 [![Static Badge](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]() **Mind the Gap Between Prototypes and Images in Cross-domain Finetuning**.  
-[[paper]]()
+[[paper]](http://arxiv.org/abs/2410.12474)
 [[code]](https://github.com/HongduanTian/CoPA)
 [[slides]]()
 [[poster]]()
