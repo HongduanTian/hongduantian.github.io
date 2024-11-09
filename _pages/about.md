@@ -49,7 +49,7 @@ TODO -->
 [[slides]](./data/slides/NeurIPS24_CoPA.pdf)
 [[poster]]()
 [[CN-video]]()
-[[EN-video]]()   
+[[EN-video]](https://recorder-v3.slideslive.com/?share=93487&s=0f9f72ed-d9ad-4f34-a0aa-154e07b6f3d7)   
   **Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
 <details>
 <summary>Quick Introduction</summary>
