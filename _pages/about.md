@@ -47,8 +47,8 @@ TODO -->
 [[paper]](http://arxiv.org/abs/2410.12474)
 [[code]](https://github.com/HongduanTian/CoPA)
 [[slides]](./data/slides/NeurIPS24_CoPA.pdf)
-[[poster]]()
-[[CN-video]]()
+[[poster]](./data/poster/neurips24_CoPA.pdf)
+[[CN-video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=93487&s=0f9f72ed-d9ad-4f34-a0aa-154e07b6f3d7)   
   **Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
 <details>
