@@ -109,10 +109,9 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 </div>
 
 
-<!--# 🎖 Awards
-- *2023.11*, Research Excellence Award of HKBU.
-- *2021.06*, Honorary degree of HUST (Top 2%, highest honour for undergrad).
-- *2021.06*, Outstanding Graduate Award of HUST.-->
+# 🎖 Awards
+- *2024.11*, Research Performance Award, HKBU CS Department.
+- *2024.10*, NeurIPS Scholar Award.
 
 <!--💬 Talks
 - *2024.06*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
