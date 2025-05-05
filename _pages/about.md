@@ -18,7 +18,7 @@ redirect_from:
 
 Hi, I am Hongduan Tian, a second-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
-Currently, my research interests mainly include **few-shot/meta learning, transfer learning, model/knowledge editing and LLM Agents**.
+Previously, my research topics mainly focus on **few-shot/meta learning, cross-domain generalization**. Currently, my research interests mainly focus on **trustworthy efficient post-training/fine-tuning/inference of foundation models** and **foundation model agents**. Moreover, I am also interested in **learning dynamics of foundation models** (see topics of [Yi Ren](https://joshua-ren.github.io/)) and **model knowledge transfer** (such as model merging etc.).
 
 *Please feel free to [email me](mailto:hongduan.tian@gmail.com) for research, collaborations, or a casual chat.* 
 
@@ -122,8 +122,9 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 - Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
 
 # 🏫 Teaching
+- *2025 Spring*, TA for COMP 7250: Machine Learning
 - *2024 Fall*, TA for COMP 7180: Quantitative Methods for Data Analytics and Artificial Intelligence
-- *2024 Spring*, TA for COMP7940: Cloud Computing.
+- *2024 Spring*, TA for COMP7940: Cloud Computing
 
 # 📖 Academic Experiences
 - *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
