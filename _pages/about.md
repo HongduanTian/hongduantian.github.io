@@ -44,71 +44,74 @@ TODO -->
 <div class='paper-box-text' markdown="1">
 
 [![Static Badge](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]() **Mind the Gap Between Prototypes and Images in Cross-domain Finetuning**.  
+**Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
+
 [[paper]](http://arxiv.org/abs/2410.12474)
 [[code]](https://github.com/HongduanTian/CoPA)
 [[slides]](./data/slides/NeurIPS24_CoPA.pdf)
 [[poster]](./data/poster/neurips24_CoPA.pdf)
 [[CN-video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=93487&s=0f9f72ed-d9ad-4f34-a0aa-154e07b6f3d7)   
-  **Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
+  
+</div>
+</div>
 <!--<details>
 <summary>Quick Introduction</summary>
  In cross-domain few-shot classification (CFC), recent works mainly focus on adapting a simple transformation head on top of a frozen pre-trained backbone with few labeled data to project embeddings into a task-specific metric space where classification can be performed by measuring similarities between image instance and prototype representations. Technically, an assumption implicitly adopted in such a framework is that the prototype and image instance embeddings share the same representation transformation. However, in this paper, we find that there naturally exists a gap, which resembles the modality gap, between the prototype and image instance embeddings extracted from the frozen pre-trained backbone, and simply applying the same transformation during the adaptation phase constrains exploring the optimal representation distributions and shrinks the gap between prototype and image representations. <br><br>
- 
  To solve this problem, we propose a simple yet effective method, contrastive prototype-image adaptation (CoPA), to adapt different transformations for prototypes and images similarly to CLIP by treating prototypes as text prompts. <br><br>
-
 Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-of-the-art performance more efficiently. Meanwhile, further analyses also indicate that CoPA can learn better representation clusters, enlarge the gap, and achieve the minimum validation loss at the enlarged gap.
 </details>-->
-</div>
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='/_pages/data/figures/mokd_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**.  
+[![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**. 
+**Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️. 
+
 [[paper]](https://arxiv.org/pdf/2405.18786)
 [[code]](https://github.com/HongduanTian/MOKD)
 [[slides]](./data/slides/ICML24_MOKD.pdf)
 [[poster]](./data/poster/icml24_mokd.pdf)
 [[CN-video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
 [[EN-video]](https://www.youtube.com/watch?v=uWMM63Sv0ZI&t=110s)   
-  **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️.
+  
+</div>
+</div>
 <!--<details>
 <summary>Quick Introduction</summary>
  In cross-domain few-shot classification, nearest centroid classifier (NCC) aims to learn representations to construct a metric space where few-shot classification can be performed by measuring the similarities between samples and the prototype of each class. An intuition behind NCC is that each sample is pulled closer to the class centroid it belongs to while pushed away from those of other classes. However, in this paper, we find that there exist high similarities between NCC-learned representations of two samples from different classes.<br><br>
-
- In order to address this problem, we propose a bi-level optimization framework, maximizing optimized kernel dependence (MOKD) to learn a set of class-specific representations that match the cluster structures indicated by labeled data of the given task. 
+In order to address this problem, we propose a bi-level optimization framework, maximizing optimized kernel dependence (MOKD) to learn a set of class-specific representations that match the cluster structures indicated by labeled data of the given task. 
  Specifically, MOKD first optimizes the kernel adopted in Hilbert-Schmidt independence criterion (HSIC) to obtain the optimized kernel HSIC (opt-HSIC) that can capture the dependence more precisely. Then, an optimization problem regarding the opt-HSIC is addressed to simultaneously maximize the dependence between representations and labels and minimize the dependence among all samples.<br><br> 
-
- Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve better generalization performance on unseen domains in most cases but also learn better data representation clusters.
+Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve better generalization performance on unseen domains in most cases but also learn better data representation clusters.
 </details>-->
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
+**Hongduan Tian**✉️, Bo Liu, Xiao-Tong Yuan✉️, Qingshan Liu.
+
 [[paper]](https://arxiv.org/pdf/2007.03219)
 [[code]](https://github.com/HongduanTian/Dense-Sparse-Dense-Reptile)
 <!--[[slides]](/_pages/data/slides-neural-atoms.pdf)
 [[poster]](/_pages/data/poster-neural-atoms.pdf)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=92308&s=8e966150-4ba4-41b7-97d3-8ed0c1a1cd0c)
 [[CN-video]](https://www.bilibili.com/video/BV1qH4y1L7mb/?share_source=copy_web&vd_source=65ec14228a98f635bf0406f14c7f8660&t=5342)-->  
-  **Hongduan Tian**✉️, Bo Liu, Xiao-Tong Yuan✉️, Qingshan Liu.
+  
+</div>
+</div>
 <!-- <details>
 <summary>Quick Introduction</summary>
  Meta-learning is a powerful paradigm for few-shot learning. Although with remarkable success witnessed in many applications, the existing optimization based meta-learning models with over-parameterized neural networks have been evidenced to ovetfit on training tasks.<br><br> 
- 
  To remedy this deficiency, we propose a network pruning based meta-learning approach for overfitting reduction via explicitly controlling the capacity of network. A uniform concentration analysis reveals the benefit of network capacity constraint for reducing generalization gap of the proposed meta-learner. We have implemented our approach on top of Reptile assembled with two network pruning routines: Dense-Sparse-Dense (DSD) and Iterative Hard Thresholding (IHT).<br><br>
- 
  Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
 </details>-->
-</div>
-</div>
+
 
 
 # 🎖 Awards
