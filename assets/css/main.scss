@@ -79,8 +79,9 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 1em;
-            max-width: 100%;
+            max-width: 60%;
             order: 2;
+            word-wrap: break-word;
         }
 
     }
