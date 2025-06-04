@@ -65,6 +65,7 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        word-wrap: break-word;
     }
     
     @include breakpoint($medium) {
@@ -80,7 +81,6 @@
             padding-left: 1em;
             max-width: 100%;
             order: 2;
-            word-wrap: break-word;
         }
 
     }
