@@ -68,6 +68,7 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 <img src='/_pages/data/figures/mokd_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**. 
 **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️. 
 
