@@ -47,7 +47,7 @@ TODO -->
 
 **Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
 
-[[paper]](http://arxiv.org/abs/2410.12474)
+[[paper]](https://arxiv.org/pdf/2410.12474)
 [[code]](https://github.com/HongduanTian/CoPA)
 [[slides]](./data/slides/NeurIPS24_CoPA.pdf)
 [[poster]](./data/poster/neurips24_CoPA.pdf)
