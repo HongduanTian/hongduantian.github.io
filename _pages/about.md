@@ -44,6 +44,7 @@ TODO -->
 <div class='paper-box-text' markdown="1">
 
 [![Static Badge](https://img.shields.io/badge/Conference-NeurIPS'24-blue)]() **Mind the Gap Between Prototypes and Images in Cross-domain Finetuning**.  
+
 **Hongduan Tian**, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han✉️.
 
 [[paper]](http://arxiv.org/abs/2410.12474)
@@ -70,6 +71,7 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 
 
 [![Static Badge](https://img.shields.io/badge/Conference-ICML'24-blue)]() **MOKD: Cross-domain Finetuning for Few-shot Classification via Maximizing Optimized Kernel Dependence**. 
+
 **Hongduan Tian**, Feng Liu, Tongliang Liu, Bo Du, Yiu-ming Cheung, Bo Han✉️. 
 
 [[paper]](https://arxiv.org/pdf/2405.18786)
