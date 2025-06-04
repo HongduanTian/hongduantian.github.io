@@ -39,7 +39,8 @@ TODO -->
 # 📝 Publications
 ✉️ Corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/copa_poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/copa_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -62,7 +63,8 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/mokd_poster.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/mokd_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -86,7 +88,8 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/meta_prune.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/meta_prune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [![Static Badge](https://img.shields.io/badge/Conference-ECCV'20-blue)]() **Meta-learning with network pruning**.  
