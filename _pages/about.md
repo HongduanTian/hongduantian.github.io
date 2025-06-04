@@ -39,7 +39,7 @@ TODO -->
 # 📝 Publications
 ✉️ Corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/modality_gap_copa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/copa_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -62,7 +62,7 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/mokd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/_pages/data/figures/mokd_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -133,7 +133,8 @@ Extensive experiments on Meta-Dataset demonstrate that CoPA achieves the state-o
 
 # 🏢 Industrial Experiences
 - *2022.07 - Present*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), host by Charles Cheung.
-- *2024.06 - 2024.08*, Research Intern @WeChat
+- *2024.11 - Now*, Remote Research Intern @WeChat, supervised by Xiangyu Zhu and Rolan Yan
+- *2024.06 - 2024.08*, Research Intern @WeChat, host by Xiangyu Zhu and Rolan Yan
 - *2023.07 - 2023.08*, Research Intern @Alibaba.
 - *2021.07 - 2022.07*, Algorithm Engineer @ZTE Nanjing Research and Development Center.
 
