@@ -119,8 +119,13 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 
 - [CoPA](https://github.com/HongduanTian/CoPA)
 <img src="https://img.shields.io/github/stars/HongduanTian/CoPA?color=yellow&label=Star" alt="Stars" >
+<img src="https://img.shields.io/github/stars/tmlr-group/CoPA?color=yellow&label=Original" alt="Original Stars" >
 - [MOKD](https://github.com/HongduanTian/MOKD)
 <img src="https://img.shields.io/github/stars/HongduanTian/MOKD?color=yellow&label=Star" alt="Stars" >
+<img src="https://img.shields.io/github/stars/tmlr-group/MOKD?color=yellow&label=Star" alt="Stars" >
+- [Dense-Sparse-Dense-Reptile](https://github.com/HongduanTian/Dense-Sparse-Dense-Reptile)
+<img src="https://img.shields.io/github/stars/HongduanTian/Dense-Sparse-Dense-Reptile?color=yellow&label=Star" alt="Stars" >
+
 
 # 🎖 Awards
 - *2024.11*, Research Performance Award, HKBU CS Department.
