@@ -36,7 +36,7 @@ Previously, my research topics mainly focus on **few-shot/meta learning, cross-d
 <!-- # 📝 Featured Publications
 TODO -->
 
-# 📝 Publications
+# 📝 Publications on Few-shot / Meta Learning
 ✉️ Corresponding author.
 
 <div class='paper-box'><div class='paper-box-image'><div>
