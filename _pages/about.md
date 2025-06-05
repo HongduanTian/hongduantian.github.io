@@ -115,7 +115,12 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
  Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
 </details>-->
 
+# 💻 GitHub Repositories
 
+- [CoPA](https://github.com/HongduanTian/CoPA)
+<img src="https://img.shields.io/github/stars/HongduanTian/CoPA?color=yellow&label=Star" alt="Stars" >
+- [MOKD](https://github.com/HongduanTian/MOKD)
+<img src="https://img.shields.io/github/stars/HongduanTian/MOKD?color=yellow&label=Star" alt="Stars" >
 
 # 🎖 Awards
 - *2024.11*, Research Performance Award, HKBU CS Department.
@@ -126,7 +131,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 [[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
 
 # 💻 Services
-- Conference Reviewer for ICML (22-25), NeurIPS (22-25), ICLR (22-25), AISTATS (25).
+- Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS.
 - Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
 
 # 🏫 Teaching
