@@ -18,13 +18,14 @@ redirect_from:
 
 Hi, I am Hongduan Tian, a second-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
-Previously, my research topics mainly focus on **few-shot/meta learning, cross-domain generalization**. Currently, my research interests mainly focus on **trustworthy efficient post-training/fine-tuning/inference of foundation models** and **foundation model agents**. Moreover, I am also interested in **learning dynamics of foundation models** (see topics of [Yi Ren](https://joshua-ren.github.io/)) and **model knowledge transfer** (such as model merging etc.).
+Previously, my research topics mainly focused on **few-shot/meta learning, cross-domain generalization**. Currently, my research interests mainly focus on **trustworthy efficient post-training/fine-tuning/inference of foundation models** and **foundation model agents**. Moreover, I am also interested in **learning dynamics of foundation models** (see topics of [Yi Ren](https://joshua-ren.github.io/)) and **model knowledge transfer** (such as model merging etc.).
 
 *Please feel free to [email me](mailto:hongduan.tian@gmail.com) for research, collaborations, or a casual chat.* 
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
+- **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
 - **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
 - **$\frak{2024.05}$**: Our paper "MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence" is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
 
@@ -38,6 +39,24 @@ TODO -->
 
 # 📝 Publications on Few-shot / Meta Learning
 ✉️ Corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/ijcv_ifr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[![Static Badge](https://img.shields.io/badge/Journal-IJCV-green)]() **Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction**.  
+
+**Hongduan Tian**, Feng Liu, Ka Chun Cheung, Zhen Fang, Simon See, Tongliang Liu, Bo Han✉️.
+
+<!--[[paper]](https://arxiv.org/pdf/2410.12474)
+[[code]](https://github.com/HongduanTian/CoPA)
+[[slides]](./data/slides/NeurIPS24_CoPA.pdf)
+[[poster]](./data/poster/neurips24_CoPA.pdf)
+[[CN-video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
+[[EN-video]](https://recorder-v3.slideslive.com/?share=93487&s=0f9f72ed-d9ad-4f34-a0aa-154e07b6f3d7)-->   
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='/_pages/data/figures/copa_poster.png' alt="sym" width="100%"></div></div>
@@ -140,6 +159,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 - Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
 
 # 🏫 Teaching
+- *2025 Fall*, TA for COMP 7015: Artificial Intelligence
 - *2025 Spring*, TA for COMP 7250: Machine Learning
 - *2024 Fall*, TA for COMP 7180: Quantitative Methods for Data Analytics and Artificial Intelligence
 - *2024 Spring*, TA for COMP7940: Cloud Computing
