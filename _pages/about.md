@@ -44,7 +44,7 @@ TODO -->
 <img src='/_pages/data/figures/ijcv_ifr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Journal-IJCV-green)]() **Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction**.  
+[![Static Badge](https://img.shields.io/badge/Journal-IJCV-orange)]() **Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction**.  
 
 **Hongduan Tian**, Feng Liu, Ka Chun Cheung, Zhen Fang, Simon See, Tongliang Liu, Bo Han✉️.
 
