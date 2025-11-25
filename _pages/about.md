@@ -134,6 +134,14 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
  Extensive experimental results on benchmark datasets with different over-parameterized deep networks demonstrate that our method not only effectively alleviates meta-overfitting but also in many cases improves the overall generalization performance when applied to few-shot classification tasks.
 </details>-->
 
+# 🎖 Awards
+- *2024.11*, Research Performance Award, HKBU CS Department.
+- *2024.10*, NeurIPS Scholar Award.
+
+# 🎤 Invited Talks
+- *2024.11*, Mind the Gap Between Prototypes and Images in Cross-domain Finetuning @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
+- *2024.06*, MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
+
 # 💻 GitHub Repositories
 
 - [CoPA](https://github.com/HongduanTian/CoPA)
@@ -146,22 +154,9 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 <img src="https://img.shields.io/github/stars/HongduanTian/Dense-Sparse-Dense-Reptile?color=yellow&label=Origin" alt="Stars" >
 
 
-# 🎖 Awards
-- *2024.11*, Research Performance Award, HKBU CS Department.
-- *2024.10*, NeurIPS Scholar Award.
-
-<!--💬 Talks
-- *2024.06*, Youth PhD Talk on Trustworthy Machine Learning @AI Time, Online.
-[[Video]](https://www.bilibili.com/video/BV1ag4y1Q7ye/?t=7945)-->
-
 # 💻 Services
 - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS.
 - Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
-
-# 🎤 Invited Talks
-- *2024.11*, Mind the Gap Between Prototypes and Images in Cross-domain Finetuning @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
-- *2024.06*, MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
-
 
 
 # 🏫 Teaching
