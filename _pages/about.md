@@ -159,8 +159,8 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 - Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
 
 # 🎤 Invited Talks
-- *2024.11*, Invited talk on *"Mind the Gap Between Prototypes and Images in Cross-domain Finetuning"* @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
-- *2024.06*, Invited talk on *"MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence"* @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
+- *2024.11*, Mind the Gap Between Prototypes and Images in Cross-domain Finetuning @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
+- *2024.06*, MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
 
 
 
