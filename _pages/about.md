@@ -165,10 +165,10 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 
 
 # 🏫 Teaching
-- *2025 Fall*, TA for COMP 7015: Artificial Intelligence
-- *2025 Spring*, TA for COMP 7250: Machine Learning
-- *2024 Fall*, TA for COMP 7180: Quantitative Methods for Data Analytics and Artificial Intelligence
-- *2024 Spring*, TA for COMP7940: Cloud Computing
+- **COMP7015** (G) Artificial Intelligence, Sem. 1, 2025 - 2026
+- **COMP7250** (G) Machine Learning, Sem. 2, 2024 - 2025
+- **COMP7180** (G) Quantitative Methods for Data Analytics and Artificial Intelligence, Sem. 1, 2024 - 2025
+- **COMP7940** (G) Cloud Computing, Sem. 2, 2023 - 2024
 
 # 📖 Academic Experiences
 - *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
