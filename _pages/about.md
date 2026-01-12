@@ -48,9 +48,9 @@ TODO -->
 
 **Hongduan Tian**, Feng Liu, Ka Chun Cheung, Zhen Fang, Simon See, Tongliang Liu, Bo Han✉️.
 
-<!--[[paper]](https://arxiv.org/pdf/2410.12474)
-[[code]](https://github.com/HongduanTian/CoPA)
-[[slides]](./data/slides/NeurIPS24_CoPA.pdf)
+[[paper]](https://link.springer.com/article/10.1007/s11263-025-02601-5)
+[[code]](https://github.com/HongduanTian/IFR)
+<!--[[slides]](./data/slides/NeurIPS24_CoPA.pdf)
 [[poster]](./data/poster/neurips24_CoPA.pdf)
 [[CN-video]](https://www.bilibili.com/video/BV1vaUNYTEr3/?spm_id_from=333.999.0.0&vd_source=a1aae47e2835186f922fa2e1c94933c9)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=93487&s=0f9f72ed-d9ad-4f34-a0aa-154e07b6f3d7)-->   
@@ -143,10 +143,12 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 - *2024.06*, MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence @[AI TIME](https://www.aitime.cn/), Online. [[Video]](https://www.bilibili.com/video/BV1k4421X7zK/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=a1aae47e2835186f922fa2e1c94933c9)
 
 # 💻 GitHub Repositories
-
+- [IFR](https://github.com/HongduanTian/IFR)
+<img src="https://img.shields.io/github/stars/HongduanTian/IFR?color=yellow&label=Origin" alt="Stars" >
+<img src="https://img.shields.io/github/stars/tmlr-group/IFR?color=yellow&label=Official" alt="Original Stars" >
 - [CoPA](https://github.com/HongduanTian/CoPA)
 <img src="https://img.shields.io/github/stars/HongduanTian/CoPA?color=yellow&label=Origin" alt="Stars" >
-<img src="https://img.shields.io/github/stars/tmlr-group/CoPA?color=yellow&label=Official" alt="Original Stars" >
+<img src="https://img.shields.io/github/stars/tmlr-group/CoPA?color=yellow&label=Official" alt="Original Stars" >\
 - [MOKD](https://github.com/HongduanTian/MOKD)
 <img src="https://img.shields.io/github/stars/HongduanTian/MOKD?color=yellow&label=Origin" alt="Stars" >
 <img src="https://img.shields.io/github/stars/tmlr-group/MOKD?color=yellow&label=Official" alt="Stars" >
