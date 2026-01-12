@@ -148,7 +148,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 <img src="https://img.shields.io/github/stars/tmlr-group/IFR?color=yellow&label=Official" alt="Original Stars" >
 - [CoPA](https://github.com/HongduanTian/CoPA)
 <img src="https://img.shields.io/github/stars/HongduanTian/CoPA?color=yellow&label=Origin" alt="Stars" >
-<img src="https://img.shields.io/github/stars/tmlr-group/CoPA?color=yellow&label=Official" alt="Original Stars" >\
+<img src="https://img.shields.io/github/stars/tmlr-group/CoPA?color=yellow&label=Official" alt="Original Stars" >
 - [MOKD](https://github.com/HongduanTian/MOKD)
 <img src="https://img.shields.io/github/stars/HongduanTian/MOKD?color=yellow&label=Origin" alt="Stars" >
 <img src="https://img.shields.io/github/stars/tmlr-group/MOKD?color=yellow&label=Official" alt="Stars" >
