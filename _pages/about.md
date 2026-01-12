@@ -162,6 +162,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 
 
 # 🏫 Teaching
+- **COMP7930** (G) Big Data Analytics, Sem. 2, 2025 - 2026
 - **COMP7015** (G) Artificial Intelligence, Sem. 1, 2025 - 2026
 - **COMP7250** (G) Machine Learning, Sem. 2, 2024 - 2025
 - **COMP7180** (G) Quantitative Methods for Data Analytics and Artificial Intelligence, Sem. 1, 2024 - 2025
@@ -173,8 +174,8 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 
 
 # 🏢 Industrial Experiences
-- *2022.07 - Present*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), host by Charles Cheung.
-- *2024.11 - Now*, Remote Research Intern @WeChat, supervised by Xiangyu Zhu and Rolan Yan
+- *2024.11 - 2026.04*, Remote Research Intern @WeChat, supervised by Xiangyu Zhu and Rolan Yan
+- *2022.07 - 2025.12*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), host by Charles Cheung.
 - *2024.06 - 2024.08*, Research Intern @WeChat, host by Xiangyu Zhu and Rolan Yan
 - *2023.07 - 2023.08*, Research Intern @Alibaba.
 - *2021.07 - 2022.07*, Algorithm Engineer @ZTE Nanjing Research and Development Center.
