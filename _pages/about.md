@@ -25,7 +25,7 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
-- **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR](https://iclr.cc/).
+- **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
 - **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
 - **$\frak{2024.05}$**: Our paper "MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence" is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
