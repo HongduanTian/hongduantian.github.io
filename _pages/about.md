@@ -37,6 +37,28 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 <!-- # 📝 Featured Publications
 TODO -->
 
+# 📝 Publications on Agent
+✉️ Corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/mad-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[![Static Badge](https://img.shields.io/badge/Conference-ICLR'26-blue)]() **Multi-Agent Debate with Memory Masking**.  
+
+**Hongduan Tian**, Xiao Feng, Ziyuan Zhao, Xiangyu Zhu, Rolan Yan, Bo Han✉️.
+
+[[paper]]()
+[[code]]()
+[[slides]]()
+[[poster]]()
+[[CN-video]]()
+[[EN-video]]()   
+  
+</div>
+</div>
+
+
 # 📝 Publications on Few-shot / Meta Learning
 ✉️ Corresponding author.
 
