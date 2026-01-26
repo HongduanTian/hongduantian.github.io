@@ -38,7 +38,8 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 <!-- # 📝 Featured Publications
 TODO -->
 
-# 📝 Publications on Agent
+
+# 📝 Publications
 ✉️ Corresponding author.
 
 <div class='paper-box'><div class='paper-box-image'><div>
@@ -58,10 +59,6 @@ TODO -->
   
 </div>
 </div>
-
-
-# 📝 Publications on Few-shot / Meta Learning
-✉️ Corresponding author.
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='/_pages/data/figures/ijcv_ifr.png' alt="sym" width="100%"></div></div>
