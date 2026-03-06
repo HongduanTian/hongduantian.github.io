@@ -26,7 +26,7 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 
 # 📣 News
 - **$\frak{2026.03}$** I will work as a visiting student at [RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html).
-- **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement.
+- **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement and is highlighted as <font color="red"><b>_Spotlight_</b></font>.
 - **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
 - **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
@@ -48,7 +48,7 @@ TODO -->
 <img src='/_pages/data/figures/langpinn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="flex: 1;">
 
-[![Static Badge](https://img.shields.io/badge/Workshop-ICLR'26_RSI-green)]() <font color="red"><b>[Spotlight]</b></font> **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**.
+[![Static Badge](https://img.shields.io/badge/Workshop-ICLR'26_RSI-green)]() **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**. <font color="red"><b>[Spotlight]</b></font>
 
 Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 
