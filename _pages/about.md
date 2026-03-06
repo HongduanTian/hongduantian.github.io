@@ -25,6 +25,7 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
+- **$\frak{2026.03}$** I will work as a visiting student at [RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html).
 - **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement.
 - **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
@@ -211,6 +212,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 - **COMP7940** (G) Cloud Computing, Sem. 2, 2023 - 2024
 
 # 📖 Academic Experiences
+- *2026.03 - 2026。06*, Visiting student @[RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html), advised by [Dr. Takashi Ishida](https://takashiishida.github.io/) and [Prof. Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
 - *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
 - *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
 
