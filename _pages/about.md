@@ -16,20 +16,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/) and [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
+Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/), and work closely with [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
 Previously, my research topics mainly focused on **few-shot/meta learning, cross-domain generalization**. Currently, my research interests mainly focus on **trustworthy efficient post-training/fine-tuning/inference of foundation models** and **foundation model agents**. Moreover, I am also interested in **learning dynamics of foundation models** (see topics of [Yi Ren](https://joshua-ren.github.io/)) and **model knowledge transfer** (such as model merging etc.).
 
 We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
 
-*Please feel free to email me for research, collaborations, or a casual chat.* 
+*Please feel free to email me for research, collaborations, or a casual chat.*
+
 Email: cshdtian [at] comp.hkbu.edu.hk / hongduan.tian [at] gmail.com
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
 - **$\frak{2026.03}$** I will work as a visiting student at [RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html).
-- **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement and is highlighted as <font color="red"><b>_Spotlight_</b></font>.
+- **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement and is highlighted as <font color="red"><b><i>Spotlight</i></b></font>.
 - **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
 - **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
