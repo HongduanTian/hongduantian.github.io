@@ -16,9 +16,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/), and work closely with [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
+Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/), and work closely with [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and was fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
-Previously, my research topics mainly focused on **few-shot/meta learning, cross-domain generalization**. Currently, my research interests mainly focus on **trustworthy efficient post-training/fine-tuning/inference of foundation models** and **foundation model agents**. Moreover, I am also interested in **learning dynamics of foundation models** (see topics of [Yi Ren](https://joshua-ren.github.io/)) and **model knowledge transfer** (such as model merging etc.).
+
+My research focuses on developing **trustworthy foundation model agents** that can achieve good performance on various tasks. This refers to two aspects: **versatile foundation models** and **trustworthy reasoning paradigms**. My work involves explore the underlying mechanisms of learning (e.g., learning dynamic (cf. [Yi Ren](https://joshua-ren.github.io/)) and learning mechanism) and reasoning paradigms and building more effective and effecicint agentic frameworks. Previously, I also explore **test-time adaptation** across various domains.
+
+- **Foundation Model Agents**: Building FM agentic frameworks 
+
+[[MAD-M$^2$]()], [[LangPINN](https://arxiv.org/pdf/2510.05158)]
+
+- **Test-time Adaptation with Limited Samples**: Achieving good generalization performance on tasks from previous data or domains.
+
+[[MOKD](https://arxiv.org/pdf/2405.18786)], [[CoPA](https://arxiv.org/pdf/2410.12474)], [[IFR](https://link.springer.com/article/10.1007/s11263-025-02601-5)]
 
 We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
 
@@ -29,7 +38,7 @@ Email: cshdtian [at] comp.hkbu.edu.hk / hongduan.tian [at] gmail.com
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
-- **$\frak{2026.03}$** I will work as a visiting student at [RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html).
+- **$\frak{2026.03}$**: I will work as visiting student at [RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html).
 - **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement and is highlighted as <font color="red"><b><i>Spotlight</i></b></font>.
 - **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
