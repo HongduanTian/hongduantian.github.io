@@ -22,7 +22,8 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 
 We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
 
-*Please feel free to [email me](mailto:hongduan.tian@gmail.com) for research, collaborations, or a casual chat.* 
+*Please feel free to email me for research, collaborations, or a casual chat.* 
+Email: cshdtian [at] comp.hkbu.edu.hk / hongduan.tian [at] gmail.com
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
