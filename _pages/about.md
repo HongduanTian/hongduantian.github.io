@@ -21,14 +21,14 @@ Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learni
 
 My research focuses on developing **trustworthy foundation model agents** that can achieve good performance on various tasks. This refers to two aspects: **versatile foundation models** and **trustworthy reasoning paradigms**. My work involves explore the underlying mechanisms of learning (e.g., learning dynamic (cf. [Yi Ren](https://joshua-ren.github.io/)) and learning mechanism) and reasoning paradigms and building more effective and effecicint agentic frameworks. Previously, I also explore **test-time adaptation** across various domains. Here are some related works:
 
-- **Foundation Model Agents**: Building FM agentic frameworks 
-[[MAD-M$^2$]()]
-[[LangPINN](https://arxiv.org/pdf/2510.05158)]
+- **Foundation Model Agents**: Building FM agentic frameworks. 
+  [[MAD-M$^2$]()]
+  [[LangPINN](https://arxiv.org/pdf/2510.05158)]
 
 - **Test-time Adaptation with Limited Samples**: Achieving good generalization performance on tasks from previous data or domains.
-[[MOKD](https://arxiv.org/pdf/2405.18786)] 
-[[CoPA](https://arxiv.org/pdf/2410.12474)] 
-[[IFR](https://link.springer.com/article/10.1007/s11263-025-02601-5)]
+ [[MOKD](https://arxiv.org/pdf/2405.18786)] 
+ [[CoPA](https://arxiv.org/pdf/2410.12474)] 
+ [[IFR](https://link.springer.com/article/10.1007/s11263-025-02601-5)]
 
 We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
 
