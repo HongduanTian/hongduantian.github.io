@@ -212,7 +212,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 - **COMP7940** (G) Cloud Computing, Sem. 2, 2023 - 2024
 
 # 📖 Academic Experiences
-- *2026.03 - 2026。06*, Visiting student @[RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html), advised by [Dr. Takashi Ishida](https://takashiishida.github.io/) and [Prof. Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
+- *2026.03 - 2026.06*, Visiting student @[RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html), advised by [Dr. Takashi Ishida](https://takashiishida.github.io/) and [Prof. Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
 - *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
 - *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
 
