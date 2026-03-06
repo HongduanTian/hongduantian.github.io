@@ -25,7 +25,7 @@ Previously, my research topics mainly focused on **few-shot/meta learning, cross
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
-- **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026] (https://iclr.cc/) Workshop on AI with Recursive Self-Improvement.
+- **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement.
 - **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
 - **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
@@ -47,7 +47,7 @@ TODO -->
 <img src='/_pages/data/figures/langpinn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[![Static Badge](https://img.shields.io/badge/Conference-ICLR'26_RSI_Workshop-blue)]() <font color="red"><b>[Spotlight]</b></font> **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**.  
+[![Static Badge](https://img.shields.io/badge/Conference-ICLR'26_RSI-blue)]() <font color="red"><b>[Spotlight]</b></font> **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**.  
 
 Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 
@@ -184,7 +184,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 # 💻 GitHub Repositories
 - [MAD-M$^2$](https://github.com/HongduanTian/MAD-MM)
 <img src="https://img.shields.io/github/stars/HongduanTian/MAD-MM?color=yellow&label=Origin" alt="Stars" >
-<img src="https://img.shields.io/github/stars/tmlr-group/MAD-MM?color=yellow&label=Official" alt="Original Stars" >
+<!--<img src="https://img.shields.io/github/stars/tmlr-group/MAD-MM?color=yellow&label=Official" alt="Original Stars" > -->
 - [IFR](https://github.com/HongduanTian/IFR)
 <img src="https://img.shields.io/github/stars/HongduanTian/IFR?color=yellow&label=Origin" alt="Stars" >
 <img src="https://img.shields.io/github/stars/tmlr-group/IFR?color=yellow&label=Official" alt="Original Stars" >
