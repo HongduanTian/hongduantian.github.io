@@ -48,7 +48,7 @@ TODO -->
 <img src='/_pages/data/figures/langpinn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="flex: 1;">
 
-[![Static Badge](https://img.shields.io/badge/Conference-ICLR'26_RSI_Workshop-green)]() <font color="red"><b>[Spotlight]</b></font> **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**.
+[![Static Badge](https://img.shields.io/badge/Workshop-ICLR'26_RSI-green)]() <font color="red"><b>[Spotlight]</b></font> **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**.
 
 Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 
