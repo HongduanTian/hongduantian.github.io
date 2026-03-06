@@ -20,6 +20,8 @@ Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learni
 
 Previously, my research topics mainly focused on **few-shot/meta learning, cross-domain generalization**. Currently, my research interests mainly focus on **trustworthy efficient post-training/fine-tuning/inference of foundation models** and **foundation model agents**. Moreover, I am also interested in **learning dynamics of foundation models** (see topics of [Yi Ren](https://joshua-ren.github.io/)) and **model knowledge transfer** (such as model merging etc.).
 
+We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
+
 *Please feel free to [email me](mailto:hongduan.tian@gmail.com) for research, collaborations, or a casual chat.* 
 
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
