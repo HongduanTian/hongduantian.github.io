@@ -79,7 +79,7 @@ Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 
 **Hongduan Tian**, Xiao Feng, Ziyuan Zhao, Xiangyu Zhu, Rolan Yan, Bo Han✉️.
 
-[[paper]](https://openreview.net/pdf?id=EdTt8nMAMA)
+[[paper]](https://arxiv.org/pdf/2603.20215)
 [[code]](https://github.com/HongduanTian/MAD-MM)
 [[slides]]()
 [[poster]]()
