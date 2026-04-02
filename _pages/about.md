@@ -72,7 +72,7 @@ Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/mad-mm.png' alt="sym" width="100%"></div></div>
+<img src='/_pages/data/poster/iclr26_madmm.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [![Static Badge](https://img.shields.io/badge/Conference-ICLR'26-blue)]() **Multi-Agent Debate with Memory Masking**.  
@@ -82,7 +82,7 @@ Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 [[paper]](https://arxiv.org/pdf/2603.20215)
 [[code]](https://github.com/HongduanTian/MAD-MM)
 [[slides]](./data/slides/ICLR26_MAD-MM.pdf)
-[[poster]]()
+[[poster]](./data/poster/iclr26_madmm.pdf)
 [[CN-video]]()
 [[EN-video]]()   
   
