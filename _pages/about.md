@@ -81,7 +81,7 @@ Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 
 [[paper]](https://arxiv.org/pdf/2603.20215)
 [[code]](https://github.com/HongduanTian/MAD-MM)
-[[slides]]()
+[[slides]](./data/slides/ICLR26_MAD-MM.pdf)
 [[poster]]()
 [[CN-video]]()
 [[EN-video]]()   
