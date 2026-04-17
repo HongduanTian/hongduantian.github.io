@@ -72,7 +72,7 @@ Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/iclr26_madmm.png' alt="sym" width="100%"></div></div>
+<img src='/_pages/data/figures/iclr26_madmm_frame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [![Static Badge](https://img.shields.io/badge/Conference-ICLR'26-blue)]() **Multi-Agent Debate with Memory Masking**.  
