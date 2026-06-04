@@ -184,6 +184,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 </details>-->
 
 # 🎖 Awards
+- *2026.05*, Research Performance Award, HKBU CS Department.
 - *2026.05*, Silver Reviewer Award, ICML'26.
 - *2024.11*, Research Performance Award, HKBU CS Department.
 - *2024.10*, NeurIPS Scholar Award.
