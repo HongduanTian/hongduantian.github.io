@@ -16,10 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hongduan Tian, a third-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/), and work closely with [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and was fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
+Hi, I am Hongduan Tian, a fourth-year Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in Department of Computer Science, Hong Kong Baptist University, advised by [Dr. Bo Han](https://bhanml.github.io/), and work closely with [Dr. Feng Liu](https://fengliu90.github.io/index.html). Before that, I got my master degree from Nanjing University of Information Science and Technology (NUIST) and was fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
+My research interests involves two aspects: **(1) exploring the underlying mechanism of foundation model abilities** (e.g., reasoning) and **(2) improving the efficiency of foundation models**. The goal of my research is to develop efficient foundation model agents based on trustworthy capabilities. Previously, I also explore **test-time adaptation** across various domains. Here are some representative works:
 
-My research focuses on developing **trustworthy foundation model agents** that can achieve good performance on various tasks. This refers to two aspects: **versatile foundation models** and **trustworthy reasoning paradigms**. My work involves explore the underlying mechanisms of learning (e.g., learning dynamic (cf. [Yi Ren](https://joshua-ren.github.io/)) and learning mechanism) and reasoning paradigms and building more effective and effecicint agentic frameworks. Previously, I also explore **test-time adaptation** across various domains. Here are some representative works:
+<!-- My research focuses on developing **efficient and trustworthy foundation model agents**. This refers to two aspects: **versatile foundation models** and **trustworthy reasoning paradigms**. My work involves explore the underlying mechanisms of learning (e.g., learning dynamic (cf. [Yi Ren](https://joshua-ren.github.io/)) and learning mechanism) and reasoning paradigms and building more effective and effecicint agentic frameworks. Previously, I also explore **test-time adaptation** across various domains. Here are some representative works: -->
 
 - **Foundation Model Agents**: Building FM agentic frameworks. <br>[[MAD-M$^2$](https://arxiv.org/pdf/2603.20215)]  [[LangPINN](https://arxiv.org/pdf/2510.05158)]
 
@@ -42,9 +43,10 @@ Email: cshdtian [at] comp.hkbu.edu.hk / hongduan.tian [at] gmail.com
 - **$\frak{2024.05}$**: Our paper "MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence" is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
 
 # 📖 Educations
-- *2023.09 - present*, Hong Kong Baptist University (HKBU), Ph.D. in Computer Science.
-- *2018.09 – 2021.06*, Nanjing University of Information Science and Technology (NUIST), M.E. in Control Engineering.
-- *2014.09 - 2018.06*, Nanjing University of Information Science and Technology (NUIST), B.E. in Automation.
+- *2023.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University (HKBU), advised by [Dr. Bo Han](https://bhanml.github.io/).
+- *2026.03 - 2026.06*, Visiting Student, RIKEN AIP, advised by [Dr. Takashi Ishida](https://takashiishida.github.io/) and [Prof. Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
+- *2018.09 – 2021.06*, M.Eng. in Automation, Nanjing University of Information Science and Technology (NUIST), advised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/home?authuser=0) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
+- *2014.09 - 2018.06*, B.E. in Automation, Nanjing University of Information Science and Technology (NUIST).
 
 <!-- # 📝 Featured Publications
 TODO -->
@@ -215,7 +217,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 
 # 💻 Services
 - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS.
-- Journal Reviewer for TPAMI, TNNLS, TMLR, NEUNET.
+- Journal Reviewer for TPAMI, TIP, TNNLS, TMLR, NEUNET.
 
 
 # 🏫 Teaching
@@ -225,17 +227,18 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 - **COMP7180** (G) Quantitative Methods for Data Analytics and Artificial Intelligence, Sem. 1, 2024 - 2025
 - **COMP7940** (G) Cloud Computing, Sem. 2, 2023 - 2024
 
-# 📖 Academic Experiences
-- *2026.03 - 2026.06*, Visiting student @[RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html), advised by [Dr. Takashi Ishida](https://takashiishida.github.io/) and [Prof. Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
-- *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han.
-- *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
+<!-- # 📖 Academic Experiences -->
+<!-- - *2026.03 - 2026.06*, Visiting student @[RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html), advised by [Dr. Takashi Ishida](https://takashiishida.github.io/) and [Prof. Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/). -->
+<!-- - *2023.09 - present*, PhD student @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han. -->
+<!-- - *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
+ -->
 
-
-# 🏢 Industrial Experiences
+# 🏢 Experiences
 - *2024.11 - 2026.04*, Remote Research Intern @WeChat, supervised by Xiangyu Zhu and Rolan Yan
 - *2022.07 - 2025.12*, Research Intern @NVIDIA [NVAITC](https://resources.nvidia.com/en-us-gps-ai-capacity-building/nvaitc-research), host by Charles Cheung.
 - *2024.06 - 2024.08*, Research Intern @WeChat, host by Xiangyu Zhu and Rolan Yan
 - *2023.07 - 2023.08*, Research Intern @Alibaba.
+- *2022.07 - 2023.05*, Research intern @HKBU-[TMLR Group](https://bhanml.github.io/group.html), advised by Dr. Bo Han and Dr. Feng Liu.
 - *2021.07 - 2022.07*, Algorithm Engineer @ZTE Nanjing Research and Development Center.
 
 
