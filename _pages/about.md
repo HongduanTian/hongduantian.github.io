@@ -35,12 +35,14 @@ Email: cshdtian [at] comp.hkbu.edu.hk / hongduan.tian [at] gmail.com
 <!-- *Please consider giving me [anonymous feedback](https://docs.google.com/forms/d/e/1FAIpQLSeE4_y14QlUtJ8MhltnGnWwco7J1sWprXnlGoFWFo002k26lw/viewform?usp=sf_link).* -->
 
 # 📣 News
+<div class="new-scroll" markdown="1">
 - **$\frak{2026.03}$**: I will work as visiting student at [RIKEN Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html).
 - **$\frak{2026.03}$**: Our paper "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework" is accepted by [ICLR 2026](https://iclr.cc/) Workshop on AI with Recursive Self-Improvement and is highlighted as <font color="red"><b><i>Spotlight</i></b></font>.
 - **$\frak{2026.01}$**: Our paper "Multi-Agent Debate with Memory Masking" is accepted by [ICLR 2026](https://iclr.cc/).
 - **$\frak{2025.11}$**: Our paper "Cross-domain Few-shot Classification via Invariant-content Feature Reconstruction" is accepted by [IJCV](https://link.springer.com/journal/11263).
 - **$\frak{2024.09}$**: Our paper "Mind the gap between prototypes and images in cross-domain finetuning" is accepted by [NeurIPS 2024](https://neurips.cc/).
 - **$\frak{2024.05}$**: Our paper "MOKD: Cross-domain finetuning for few-shot classification via maximizing optimized kernel dependence" is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/33444).
+</div>
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University (HKBU), advised by [Dr. Bo Han](https://bhanml.github.io/).
