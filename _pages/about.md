@@ -22,7 +22,7 @@ My research interests involves two aspects: **(1) exploring the underlying mecha
 
 <!-- My research focuses on developing **efficient and trustworthy foundation model agents**. This refers to two aspects: **versatile foundation models** and **trustworthy reasoning paradigms**. My work involves explore the underlying mechanisms of learning (e.g., learning dynamic (cf. [Yi Ren](https://joshua-ren.github.io/)) and learning mechanism) and reasoning paradigms and building more effective and effecicint agentic frameworks. Previously, I also explore **test-time adaptation** across various domains. Here are some representative works: -->
 
-- **Foundation Model Agents**: Building FM agentic frameworks. <br>[[MAD-M$^2$](https://arxiv.org/pdf/2603.20215)]  [[LangPINN](https://arxiv.org/pdf/2510.05158)]
+- **Trustworthy Foundation Model Agents**: Exploring underlying mechanisms of agentic framework and building FM agentic frameworks. <br>[[MAD-M$^2$](https://arxiv.org/pdf/2603.20215)]  [[LangPINN](https://arxiv.org/pdf/2510.05158)]
 
 - **Test-time Adaptation with Limited Samples**: Achieving good generalization performance on tasks from previous data or domains. <br>[[MOKD](https://arxiv.org/pdf/2405.18786)] [[CoPA](https://arxiv.org/pdf/2410.12474)] [[IFR](https://link.springer.com/article/10.1007/s11263-025-02601-5)]
 
