@@ -24,7 +24,7 @@ My research interests involves two aspects: **(1) exploring the underlying mecha
 
 - **Trustworthy Foundation Model Agents**: Exploring underlying mechanisms of agentic framework and building FM agentic frameworks. <br>[[MAD-M$^2$](https://arxiv.org/pdf/2603.20215)]  [[LangPINN](https://arxiv.org/pdf/2510.05158)]
 
-- **Test-time Adaptation with Limited Samples**: Achieving good generalization performance on tasks from previous data or domains. <br>[[MOKD](https://arxiv.org/pdf/2405.18786)] [[CoPA](https://arxiv.org/pdf/2410.12474)] [[IFR](https://link.springer.com/article/10.1007/s11263-025-02601-5)]
+- **Cross-domain Few-shot Test-time Adaptation**: Achieving good generalization performance on tasks from previous data or domains. <br>[[MOKD](https://arxiv.org/pdf/2405.18786)] [[CoPA](https://arxiv.org/pdf/2410.12474)] [[IFR](https://link.springer.com/article/10.1007/s11263-025-02601-5)]
 
 We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
 
