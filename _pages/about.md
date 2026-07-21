@@ -224,7 +224,7 @@ Extensive experiments on Meta-Dataset demonstrate that MOKD can not only achieve
 
 
 # 💻 Services
-- Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS.
+- Conference Reviewer for ICML, NeurIPS, ICLR, AAAI, AISTATS.
 - Journal Reviewer for TPAMI, TIP, TNNLS, TMLR, NEUNET.
 
 
