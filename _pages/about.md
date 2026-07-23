@@ -66,7 +66,7 @@ TODO -->
 
 [![Static Badge](https://img.shields.io/badge/Workshop-ICLR'26_RSI-green)]() **Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework**. <font color="red"><b>[Spotlight]</b></font>
 
-Liangliang You, Xin He, **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
+Xin He, Liangliang You,  **Hongduan Tian**, Bo Han, Ivor Tsang, Yew-Soon Ong.
 
 [[paper]](https://arxiv.org/pdf/2510.05158)
 <!-- [[code]]()
